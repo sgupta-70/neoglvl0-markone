@@ -18,6 +18,7 @@ else{
   console.log('Incorrect answer!');
 }
 
+/*
 //Ex 7
 var num1=4, num2=6;
 function add (n1, n2){
@@ -25,6 +26,7 @@ function add (n1, n2){
 }
 var result = add(num1,num2);
 console.log('Sum of '+num1+' & '+num2+' is '+result);
+*/
 
 //Ex 8
 function quiz (ques, ans){
@@ -39,6 +41,7 @@ function quiz (ques, ans){
 }
 quiz('Where do you live? ', 'Delhi');
 
+/*
 //Ex 9
 for (var i=0;i<5;i++){
   console.log('My name is Sid!');
@@ -74,6 +77,7 @@ for (var i=0;i<animals.length;i++){
   console.log(currentAnimal.strength);
   console.log('--------------------');
 }
+*/
 
 //Ex 13, 14
 var quesOne = {
